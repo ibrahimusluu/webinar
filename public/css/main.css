@@ -1,0 +1,14 @@
+.radio-class {
+    margin-right: 5px!important;
+    margin-left: 5px!important;
+}
+
+.radio-class-label {
+    font-size: 12px;
+}
+
+.button {
+    background-color: #22b9e4;
+    text-align: center;
+    color: white;
+}
